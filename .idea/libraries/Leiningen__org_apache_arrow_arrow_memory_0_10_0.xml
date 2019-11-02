@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Leiningen: org.apache.arrow/arrow-memory:0.10.0">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/arrow/arrow-memory/0.10.0/arrow-memory-0.10.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

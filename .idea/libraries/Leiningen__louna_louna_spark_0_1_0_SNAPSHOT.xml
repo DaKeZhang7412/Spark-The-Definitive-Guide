@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Leiningen: louna/louna-spark:0.1.0-SNAPSHOT">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/louna/louna-spark/0.1.0-SNAPSHOT/louna-spark-0.1.0-SNAPSHOT.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
