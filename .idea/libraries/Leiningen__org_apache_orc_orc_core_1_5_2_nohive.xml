@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: org.apache.orc/orc-core:1.5.2:nohive">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/orc/orc-core/1.5.2/orc-core-1.5.2-nohive.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
